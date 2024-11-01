@@ -1,9 +1,8 @@
 
 ### **4. Dependencies (requirements.txt)**
 
-List all dependencies in a `requirements.txt` file.
+# List all dependencies in a 'requirements.txt' file.
 
-```plaintext
 streamlit
 yfinance
 pandas
